@@ -32,7 +32,6 @@ resources:
     description: >-
       scheduled function that logs a specified greeting message
     properties:
-      sourceDirectory: functions
       location: ${LOCATION}
       scheduleTrigger:
         timeZone: ${TIME_ZONE}
