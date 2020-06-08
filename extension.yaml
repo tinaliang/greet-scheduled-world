@@ -48,7 +48,7 @@ params:
       Time Zone
     required: false
     immutable: false
-    default: utc
+    default: UTC
   - param: SCHEDULE_FREQUENCY
     type: string
     label: schedule frequency
