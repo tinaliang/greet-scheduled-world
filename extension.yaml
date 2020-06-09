@@ -14,9 +14,9 @@ description: >-
 license: Apache-2.0  # https://spdx.org/licenses/
 
 # Public URL for the source code of your extension
-sourceUrl: https://github.com/firebase/firebase-tools/tree/master/templates/extensions
+sourceUrl: https://github.com/tinaliang/greet-scheduled-world/master/
 
-billingRequired: false  # Learn more in the docs
+billingRequired: true  # Learn more in the docs
 
 # For your extension to interact with other Google APIs (like Firestore, Cloud Storage, or Cloud Translation),
 # set the `apis` field. In addition, set the `roles` field to grant appropriate IAM access to interact with these products.
